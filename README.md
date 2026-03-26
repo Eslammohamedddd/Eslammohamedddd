@@ -1,9 +1,7 @@
 # Hi there, I’m Islam Mohamed 👋
 
-I’m a passionate **Front-End Developer** who loves crafting clean, interactive, and user-friendly web experiences.  
-I work mainly with **JavaScript**, **HTML**, and **CSS**, and also enjoy exploring **Python** and **C++** to enhance automation and problem-solving skills.
+I have a greate passion for software development specifilly Full stack development and I learned a lot of skills  Firstly part Of Front End sush as HTML CSS JAVASCRIPT secondly Back End I studied A lot Of Skills throught NTI Scholarship and throught self study as PHP , SQL , MYSQL , Laravel 12 and MVC
 
----
 
 ## About Me
 
